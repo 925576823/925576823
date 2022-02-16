@@ -1,0 +1,5 @@
+<table width="100%" onclick="window.open('http://www.1t2t.com/', '_blank')" style="CURSOR:hand">
+<tr>
+<td height="100" bgcolor="f4f4f4"> </td>
+</tr>
+</table>
